@@ -1,0 +1,1 @@
+In this project, I’ll build a simple Unix shell. The shell is the heart of the command-line interface, and thus is central to the Unix/C programming environment. Mastering use of the shell is necessary to become proﬁcient in this world; knowing how the shell itself is built is the focus of this project.
